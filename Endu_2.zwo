@@ -1,0 +1,14 @@
+<workout_file>
+    <author>M.Wets</author>
+    <name>Endu 2</name>
+    <description>7 x 8' @65%</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="RECOVERY"/>
+    </tags>
+    <workout>
+        <Warmup Duration="300" PowerLow="0.32449996" PowerHigh="0.56449997" pace="1125572608"/>
+        <IntervalsT Repeat="7" OnDuration="480" OffDuration="30" OnPower="0.65449995" OffPower="0.50449997" pace="1125572608" OverUnder="1"/>
+        <Cooldown Duration="300" PowerLow="0.55449998" PowerHigh="0.38450003" pace="1125572608"/>
+    </workout>
+</workout_file>

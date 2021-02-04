@@ -1,0 +1,20 @@
+<workout_file>
+    <author>M.Wets</author>
+    <name>Force 4</name>
+    <description>8 x 45' @160%</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="INTERVALS"/>
+    </tags>
+    <workout>
+        <Warmup Duration="300" PowerLow="0.32450002" PowerHigh="0.62449998" pace="1125572608"/>
+        <SteadyState Duration="180.00002" Power="0.65000004" pace="1125572608"/>
+        <IntervalsT Repeat="2" OnDuration="60.000004" OffDuration="60.000004" OnPower="0.80449992" OffPower="0.65449995" pace="1125572608" OverUnder="1"/>
+        <IntervalsT Repeat="2" OnDuration="30.000002" OffDuration="60.000004" OnPower="0.97449994" OffPower="0.65449995" pace="1125572608"/>
+        <IntervalsT Repeat="2" OnDuration="15.000001" OffDuration="60.000004" OnPower="1.1544999" OffPower="0.65449995" pace="1125572608"/>
+        <IntervalsT Repeat="2" OnDuration="10" OffDuration="60.000004" OnPower="1.4545" OffPower="0.65449995" pace="1125572608"/>
+        <IntervalsT Repeat="8" OnDuration="45" OffDuration="180" OnPower="1.6044999" OffPower="0.50449997" pace="1125572608"/>
+        <Cooldown Duration="300" PowerLow="0.62449998" PowerHigh="0.32450002" pace="1125572608"/>
+    </workout>
+</workout_file>
+                   

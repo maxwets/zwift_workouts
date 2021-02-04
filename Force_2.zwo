@@ -1,0 +1,20 @@
+<workout_file>
+    <author>M.Wets</author>
+    <name>Force 2</name>
+    <description>12 x 10' @240%</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="INTERVALS"/>
+    </tags>
+    <workout>
+        <Warmup Duration="300" PowerLow="0.32449999" PowerHigh="0.62449998" pace="1125572608"/>
+        <SteadyState Duration="180" Power="0.65000004" pace="1125572608"/>
+        <IntervalsT Repeat="2" OnDuration="60" OffDuration="60" OnPower="0.80449992" OffPower="0.65449995" pace="1125572608" OverUnder="1"/>
+        <IntervalsT Repeat="2" OnDuration="30" OffDuration="60" OnPower="0.97449994" OffPower="0.65449995" pace="1125572608"/>
+        <IntervalsT Repeat="2" OnDuration="15" OffDuration="60" OnPower="1.1544999" OffPower="0.65449995" pace="1125572608"/>
+        <IntervalsT Repeat="2" OnDuration="10" OffDuration="60" OnPower="1.4545" OffPower="0.65449995" pace="1125572608"/>
+        <IntervalsT Repeat="12" OnDuration="10" OffDuration="180" OnPower="2.4045" OffPower="0.50449997" pace="1125572608"/>
+        <Cooldown Duration="300" PowerLow="0.62449998" PowerHigh="0.32449999" pace="1125572608"/>
+    </workout>
+</workout_file>
+                   

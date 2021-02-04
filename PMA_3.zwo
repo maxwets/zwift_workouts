@@ -1,0 +1,23 @@
+<workout_file>
+    <author>M.Wets</author>
+    <name>PMA 3</name>
+    <description>2 x 5 x 1/1
+10' de maintien</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="INTERVALS"/>
+    </tags>
+    <workout>
+        <Warmup Duration="300" PowerLow="0.32675678" PowerHigh="0.62405401" pace="1125572608"/>
+        <SteadyState Duration="120.00001" Power="0.65000004" pace="1125572608"/>
+        <IntervalsT Repeat="2" OnDuration="60.000004" OffDuration="60.000004" OnPower="0.81324321" OffPower="0.65108109" pace="1125572608"/>
+        <IntervalsT Repeat="2" OnDuration="30" OffDuration="60" OnPower="0.97449994" OffPower="0.65449995" pace="1125572608"/>
+        <IntervalsT Repeat="2" OnDuration="15" OffDuration="60" OnPower="1.1645" OffPower="0.65449995" pace="1125572608"/>
+        <SteadyState Duration="180" Power="0.6045" pace="1125572608"/>
+        <IntervalsT Repeat="5" OnDuration="60" OffDuration="60" OnPower="1.2644999" OffPower="0.54449999" pace="1125572608"/>
+        <SteadyState Duration="120" Power="0.54297298" pace="1125572608"/>
+        <IntervalsT Repeat="5" OnDuration="60" OffDuration="60" OnPower="1.2644999" OffPower="0.54449999" pace="1125572608"/>
+        <Cooldown Duration="300" PowerLow="0.62405401" PowerHigh="0.32675678" pace="1125572608"/>
+    </workout>
+</workout_file>
+                      

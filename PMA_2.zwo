@@ -1,0 +1,21 @@
+<workout_file>
+    <author>M.Wets</author>
+    <name>PMA 2</name>
+    <description>12 x 45'/45'
+9' de maintien</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="INTERVALS"/>
+    </tags>
+    <workout>
+        <Warmup Duration="300" PowerLow="0.32675678" PowerHigh="0.62405401" pace="1125572608"/>
+        <SteadyState Duration="120.00001" Power="0.65000004" pace="1125572608"/>
+        <IntervalsT Repeat="2" OnDuration="60.000004" OffDuration="60.000004" OnPower="0.81324321" OffPower="0.65108109" pace="1125572608"/>
+        <IntervalsT Repeat="2" OnDuration="30" OffDuration="60" OnPower="0.97540534" OffPower="0.65108109" pace="1125572608"/>
+        <IntervalsT Repeat="2" OnDuration="15" OffDuration="60" OnPower="1.1745" OffPower="0.65449995" pace="1125572608"/>
+        <SteadyState Duration="180" Power="0.54162788" pace="1125572608"/>
+        <IntervalsT Repeat="9" OnDuration="45" OffDuration="45" OnPower="1.2644999" OffPower="0.54449999" pace="1125572608"/>
+        <Cooldown Duration="300" PowerLow="0.62449998" PowerHigh="0.32449999" pace="1125572608"/>
+    </workout>
+</workout_file>
+                    

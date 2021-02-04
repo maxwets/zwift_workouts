@@ -1,0 +1,22 @@
+<workout_file>
+    <author>M.Wets</author>
+    <name>Seuil 5</name>
+    <description>4 x 8'/4' + 2'30" @105%
+32' de maintien</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="INTERVALS"/>
+    </tags>
+    <workout>
+        <Warmup Duration="300" PowerLow="0.35257006" PowerHigh="0.65630841" pace="1125572608"/>
+        <IntervalsT Repeat="2" OnDuration="60.000004" OffDuration="30.000002" OnPower="0.80449992" OffPower="0.6045" pace="1125572608"/>
+        <IntervalsT Repeat="4" OnDuration="30.000002" OffDuration="30.000002" OnPower="0.93200934" OffPower="0.6049065" pace="1125572608"/>
+        <IntervalsT Repeat="2" OnDuration="15.000001" OffDuration="30.000002" OnPower="1.1544999" OffPower="0.6045" pace="1125572608"/>
+        <SteadyState Duration="180.00002" Power="0.65163553" pace="1125572608"/>
+        <IntervalsT Repeat="4" OnDuration="480" OffDuration="240" OnPower="1.0044999" OffPower="0.65449995" pace="1125572608"/>
+        <SteadyState Duration="150" Power="1.0545" pace="1125572608"/>
+        <SteadyState Duration="120.00001" Power="0.65000004" pace="1125572608"/>
+        <Cooldown Duration="300" PowerLow="0.6045" PowerHigh="0.3545" pace="1125572608"/>
+    </workout>
+</workout_file>
+                     

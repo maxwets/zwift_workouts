@@ -1,0 +1,19 @@
+<workout_file>
+    <author>M.Wets</author>
+    <name>IM 70.3 #1</name>
+    <description>4 x 10' @70.3
+40' de maintien</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="INTERVALS"/>
+    </tags>
+    <workout>
+        <Warmup Duration="300" PowerLow="0.32450002" PowerHigh="0.62449998" pace="1125572608"/>
+        <SteadyState Duration="120.00001" Power="0.65000004" pace="1125572608"/>
+        <IntervalsT Repeat="2" OnDuration="60" OffDuration="60" OnPower="0.81324321" OffPower="0.65108109" pace="1125572608"/>
+        <IntervalsT Repeat="2" OnDuration="30" OffDuration="60" OnPower="0.97449994" OffPower="0.65449995" pace="1125572608"/>
+        <IntervalsT Repeat="4" OnDuration="600" OffDuration="120" OnPower="0.80449992" OffPower="0.6045" pace="1125572608"/>
+        <Cooldown Duration="300" PowerLow="0.62405401" PowerHigh="0.32675678" pace="1125572608"/>
+    </workout>
+</workout_file>
+                  
